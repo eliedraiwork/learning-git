@@ -5,8 +5,8 @@ A repository for git learning purposes
 ---
 
 Welcome in your git journey.
-Please use the following command to try being on another branch
+Please use the following command to checkout on another branch
 
 ```
-git checkout 'checkout-existing-branch'
+git checkout 'existing-branch'
 ```
