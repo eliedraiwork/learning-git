@@ -20,7 +20,7 @@ So in the root of the project, create a file "hello.txt" and write something in 
 echo "Hello, world!" > hello.txt
 ```
 
-You can the check the status of all your git files by using the following command:
+You can check the status of all your git files by using the following command:
 
 ```
 git status
@@ -42,4 +42,10 @@ Once you are sure you want to save this file in your git repository, you can per
 
 ```
 git commit -m "Give a short description about the commit here"
+```
+
+Write down the following command to start the next step:
+
+```
+git checkout exercise-01
 ```
