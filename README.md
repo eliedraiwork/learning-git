@@ -10,3 +10,5 @@ Please use the following command to checkout on another branch
 ```
 git checkout 'existing-branch'
 ```
+
+Add modification in the branch.
