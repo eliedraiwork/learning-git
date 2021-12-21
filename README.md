@@ -12,3 +12,4 @@ git checkout 'existing-branch'
 ```
 
 Add modification in the branch.
+Add second modification.
